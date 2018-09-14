@@ -4,3 +4,4 @@
 ## Ref  
 * https://gitee.com/weimingtom/kirikiroid2_fork  
 * Kirikiroid2 1.3.8  
+* http://cocos2d-x.org/filedown/cocos2d-x-3.6.zip  
