@@ -1,6 +1,10 @@
 # linnea
 [WIP] Try to port Kirikiroid2 / krkrz (吉里吉里Z) to Raspberry Pi
 
+## History  
+* 2018-08-11 : No boost depend, use pthread instead  
+* 2018-07-25 : First available version with boost and vs2010  
+
 ## Ref  
 * https://github.com/zeas2/Kirikiroid2  
 * https://github.com/krkrz/krkrz  
