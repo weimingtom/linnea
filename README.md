@@ -8,3 +8,6 @@
 * Kirikiroid2 1.3.8  
 * cocos2d-x-3.6.zip  
 cocos2d-x.org/filedown/cocos2d-x-3.6.zip  
+* CocoStudio v3.10  
+CocosForWin-v3.10.exe  
+
