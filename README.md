@@ -6,7 +6,7 @@
 * 2018-07-25 : First available version with boost and vs2010  
 
 ## Status  
-**WIP, remove most extra functions in Kirikiroid2, only tested with VS2010 and Windows XP**  
+**WIP, remove most extra functions (include audio) in Kirikiroid2, only tested with VS2010 and Windows XP**  
 
 ## Ref  
 * https://github.com/zeas2/Kirikiroid2  
