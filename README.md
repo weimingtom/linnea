@@ -2,6 +2,8 @@
 [WIP] Try to port Kirikiroid2 / krkrz (吉里吉里Z) to Raspberry Pi
 
 ## History  
+* 2019-03-17 : Merge pthread project  
+* 2019-02-02 : Merge OpenCV2 project  
 * 2018-08-11 : No boost depend, use pthread instead  
 * 2018-07-25 : First available version with boost and vs2010  
 
